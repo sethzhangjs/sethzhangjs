@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - applying for MS/MEng in the US.
 
 📫 How to reach me: 
-- sethzhangjs@gmail.com 
-- sethzhangjs@163.com 
+- sethzhangjs@gmail.com or sethzhangjs@163.com 
+
 
 
