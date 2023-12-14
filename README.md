@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<div align="center"> <img src="https://visitor-badge.glitch.me/badge?page_id=sethzhangjs" /> </div>
+
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethzhangjs" /> </div>
