@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 📫 How to reach me: 
 - sethzhangjs@gmail.com
 - sethzhangjs@163.com
-- feel free to connect with me on [LinkedIn](www.linkedin.com/in/sethzhangjs). ✨
+- feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sethzhangjs). ✨
 
 
 
