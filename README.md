@@ -15,12 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Ask me about ...
-BEng in SE @ SDU 24'
-Ex RA @ Wei Lab 
+💬 Ask me about:
+- BEng in SE @ SDU 24' 
+- previous RA @ Wei Lab
+- current SWE internship @ Bosch
+- applying for MS/MEng in the US.
 
-📫 How to reach me: ...
-sethzhangjs@gmail.com
-sethzhangjs@163.com
+📫 How to reach me: 
+- sethzhangjs@gmail.com 
+- sethzhangjs@163.com 
 
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sethzhangjs" /> </div>
+
