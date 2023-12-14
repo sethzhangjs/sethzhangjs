@@ -1,7 +1,5 @@
 ## Jiashuo (Seth) Zhang                                       
-<img src="https://komarev.com/ghpvc/?username=sethzhangjs" alt="visit count" align="right" />
-
-### Hi there 👋
+### Hi there 👋   <img src="https://komarev.com/ghpvc/?username=sethzhangjs" alt="visit count" align="right" />
 
 <!--
 **sethzhangjs/sethzhangjs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
