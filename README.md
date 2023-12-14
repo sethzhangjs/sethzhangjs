@@ -15,6 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Augenstern-creator&left_color=green&right_color=red)
+
+
 💬 Ask me about:
 - BEng in SE @ SDU 24' 
 - previous RA @ Wei Lab
@@ -22,7 +25,9 @@ Here are some ideas to get you started:
 - applying for MS/MEng in the US.
 
 📫 How to reach me: 
-- sethzhangjs@gmail.com or sethzhangjs@163.com 
+- sethzhangjs@gmail.com
+- sethzhangjs@163.com
+- feel free to connect with me on LinkedIn.
 
 
 
