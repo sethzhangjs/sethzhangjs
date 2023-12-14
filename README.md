@@ -1,4 +1,5 @@
-<div align="right"> <img src="https://visitor-badge.glitch.me/badge?page_id=sethzhangjs" /> </div>
+## Jiashuo (Seth) Zhang                                       
+<img src="https://komarev.com/ghpvc/?username=sethzhangjs" alt="visit count" align="right" />
 
 ### Hi there 👋
 
