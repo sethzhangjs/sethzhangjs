@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 - applying for MS/MEng in the US.
 
 📫 How to reach me: 
-- Email: [Gmail](sethzhangjs@gmail.com) | [163 Mail](sethzhangjs@163.com). 
+- Email: [Gmail](mailto:sethzhangjs@gmail.com) | [163 Mail](mailto:sethzhangjs@163.com). 
 - feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sethzhangjs). ✨
 
 
