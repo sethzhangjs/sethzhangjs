@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-💬 Ask me about:
+💬 About me:
 - BEng in SE @ SDU 24' 
 - previous RA @ Wei Lab
 - current SWE internship @ Bosch
