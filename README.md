@@ -17,14 +17,13 @@ Here are some ideas to get you started:
 -->
 
 💬 About me:
-- BEng in SE @ SDU 24' 
-- previous RA @ Wei Lab
-- current SWE internship @ Bosch
-- applying for MS/MEng in the US.
+- BEng in Software Engineering @SDU 24' 
+- Previous RA @Wei Lab, SDE intern @Bosch
+- Applying for MS/MEng in the US.
 
 📫 How to reach me: 
 - Email: [Gmail](mailto:sethzhangjs@gmail.com) | [163 Mail](mailto:sethzhangjs@163.com). 
-- feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sethzhangjs). ✨
+- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sethzhangjs). ✨
 
 
 
