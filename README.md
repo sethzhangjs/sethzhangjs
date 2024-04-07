@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 📫 How to reach me: 
 - Email: [Gmail](mailto:sethzhangjs@gmail.com) | [163 Mail](mailto:sethzhangjs@163.com). 
-- Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/sethzhangjs). ✨
+
 
 
 
