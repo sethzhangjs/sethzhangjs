@@ -17,9 +17,8 @@ Here are some ideas to get you started:
 -->
 
 💬 About me:
-- BE in Software Engineering @Shandong Univeristy 24' 
+- BE in Software Engineering @Shandong University 24'
 - Previous RA @Wei Lab, SDE intern @Bosch
-- Applying for MS/MEng in the US.
 
 📫 How to reach me: 
 - Email: [Gmail](mailto:sethzhangjs@gmail.com) | [163 Mail](mailto:sethzhangjs@163.com). 
