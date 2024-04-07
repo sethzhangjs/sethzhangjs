@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 💬 About me:
-- BEng in Software Engineering @SDU 24' 
+- BE in Software Engineering @Shandong Univeristy 24' 
 - Previous RA @Wei Lab, SDE intern @Bosch
 - Applying for MS/MEng in the US.
 
