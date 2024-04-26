@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 - Previous RA @Wei Lab, SDE intern @Bosch
 
 📫 How to reach me: 
-- Email: [Gmail](mailto:sethzhangjs@gmail.com) | [163 Mail](mailto:sethzhangjs@163.com). 
+- Email: [Gmail](mailto:sethzhangjs@gmail.com) 
 
 
 
