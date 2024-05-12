@@ -18,11 +18,12 @@ Here are some ideas to get you started:
 
 💬 About me:
 - BE in Software Engineering @Shandong University 24'
-- Previous RA @Wei Lab, SDE intern @Bosch
+- Incoming MSE in Computer Science @Johns Hopkins University
+- Previous RA @Wei Lab, SDE Intern @Bosch
 
 📫 How to reach me: 
-- Email: [Gmail](mailto:sethzhangjs@gmail.com) 
-
+- Email: [Gmail](mailto:sethzhangjs@gmail.com)
+- LinkedIn: [Jiashuo Seth Zhang](https://www.linkedin.com/in/sethzhangjs/)
 
 
 
