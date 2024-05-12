@@ -22,8 +22,8 @@ Here are some ideas to get you started:
 - Previous RA @Wei Lab, SDE Intern @Bosch
 
 📫 How to reach me: 
-- Email: [sethzhangjs@gmail.com](mailto:sethzhangjs@gmail.com)
+- Gmail: [sethzhangjs](mailto:sethzhangjs@gmail.com)
 - LinkedIn: [Jiashuo Seth Zhang](https://www.linkedin.com/in/sethzhangjs/)
-
+- ResearchGate: [Jiashuo Seth Zhang](https://www.researchgate.net/profile/Jiashuo-Zhang-8)
 
 
