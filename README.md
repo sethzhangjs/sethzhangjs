@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - Previous RA @Wei Lab, SDE Intern @Bosch
 
 📫 How to reach me: 
-- Email: [Gmail](mailto:sethzhangjs@gmail.com)
+- Email: [sethzhangjs@gmail.com](mailto:sethzhangjs@gmail.com)
 - LinkedIn: [Jiashuo Seth Zhang](https://www.linkedin.com/in/sethzhangjs/)
 
 
