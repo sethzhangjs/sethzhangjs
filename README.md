@@ -23,8 +23,7 @@ Here are some ideas to get you started:
   
 
 📫 How to reach me: 
-- Gmail: [sethzhangjs](mailto:sethzhangjs@gmail.com)
-- LinkedIn: [Jiashuo (Seth) Zhang](https://www.linkedin.com/in/sethzhangjs/)
+- Gmail: sethzhangjs at gmail dot com
 - ResearchGate: [Jiashuo (Seth) Zhang](https://www.researchgate.net/profile/Jiashuo-Zhang-8)
 
 
