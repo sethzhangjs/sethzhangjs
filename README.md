@@ -20,10 +20,9 @@ Here are some ideas to get you started:
 - BE in Software Engineering @Shandong University 24'
 - Incoming MSE in Computer Science Student @Johns Hopkins University
 - I am interested in the intersection of AI and healthcare / medical field.
-  
 
 📫 How to reach me: 
 - Gmail: sethzhangjs at gmail dot com
-- ResearchGate: [Jiashuo (Seth) Zhang](https://www.researchgate.net/profile/Jiashuo-Zhang-8)
+
 
 
