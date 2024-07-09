@@ -18,8 +18,9 @@ Here are some ideas to get you started:
 
 💬 About me:
 - BE in Software Engineering @Shandong University 24'
-- Incoming MSE in Computer Science @Johns Hopkins University
-- Previous RA @Wei Lab, SDE Intern @Bosch
+- Incoming MSE in Computer Science Student @Johns Hopkins University
+- I am interested in the intersection of AI and healthcare / medical field.
+  
 
 📫 How to reach me: 
 - Gmail: [sethzhangjs](mailto:sethzhangjs@gmail.com)
