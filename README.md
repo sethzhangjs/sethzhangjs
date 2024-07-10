@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 💬 About me:
 - BE in Software Engineering @Shandong University 24'
 - Incoming MSE in Computer Science Student @Johns Hopkins University
-- I am interested in the intersection of AI and healthcare / medical field.
+- I am interested in the intersection of AI🤖 and healthcare💉 / medical💊 / science🧪 field.
 
 📫 How to reach me: 
 - Gmail: sethzhangjs at gmail dot com
