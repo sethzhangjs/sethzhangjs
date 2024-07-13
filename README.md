@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 - I am interested in the intersection of AI🤖 and the healthcare🏥, medical💊, and scientific🧬 fields.
 
 📫 How to reach me: 
-- Gmail: sethzhangjs at gmail dot com
+- Gmail: sethzhangjs (at) gmail dot com
 
 
 
