@@ -17,12 +17,12 @@ Here are some ideas to get you started:
 -->
 
 💬 About me:
-- BE in Software Engineering @Shandong University 24'
-- Incoming MSE in Computer Science Student @Johns Hopkins University
+- MSE in Computer Science Student @Johns Hopkins University
+- Hons BE in Software Engineering @Shandong University 24'
 - I am interested in the intersection of AI🤖 and the healthcare🏥, medical💊, and scientific🧬 fields.
 
 📫 How to reach me: 
-- Gmail: sethzhangjs (at) gmail dot com
+- Gmail: sethzhangjs (at) gmail [dot] com
 
 
 
