@@ -1,4 +1,4 @@
-## Jiashuo (Seth) Zhang                                       
+## Jiashuo Zhang                                       
 ### Hi there 👋   <img src="https://komarev.com/ghpvc/?username=sethzhangjs" alt="visit count" align="right" />
 
 <!--
