@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 -->
 
 💬 About me:
-- MS in Computer Science student @Johns Hopkins
+- MS in Computer Science @Johns Hopkins
 - I am interested in the intersection of AI and the healthcare and biomedicine fields.
 
 📫 How to reach me: 
